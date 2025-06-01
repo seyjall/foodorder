@@ -30,4 +30,4 @@ Hosted on InfinityFree:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/food-order-website.git
+   git clone https://github.com/seyjall/food-order-website.git
