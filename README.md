@@ -19,6 +19,7 @@ Hosted on InfinityFree:
 - Perform full CRUD operations (Create, Read, Update, Delete) on database tables
 - View real-time statistics: total orders, revenue, Users and menu items, etc.
 - Manage menu items, customers, and order statuses
+- Search food items in database tables
 
 ## Database Design
 
