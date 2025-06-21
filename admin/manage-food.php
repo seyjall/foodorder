@@ -10,6 +10,19 @@
    
    <br/>  <br/>  <br/>
 
+   <a href="<?php echo SITEURL?>admin/add-food.php" class= "btn-primary" >Add Food</a>
+   </br> </br> </br> 
+   <form action = "<?php echo SITEURL ?>admin/search-food.php" method="POST">
+
+<input type = "search" name = "search" placeholder = "search for food item.." required>
+<input type = "submit" name = "submit" value = "search" class = "btn-primary">
+
+
+</form>
+  
+   
+   <br/>  <br/>  <br/>
+
 
    <?php 
 

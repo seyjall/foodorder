@@ -41,6 +41,17 @@
     
    ?>
    <a href="<?php echo SITEURL;?>admin/add-category.php" class= "btn-primary" >Add Category </a>
+
+      <br/>  <br/>  <br/>
+ 
+   <form action = "<?php echo SITEURL ?>admin/search-category.php" method="POST">
+
+<input type = "search" name = "search" placeholder = "search for active category." required>
+<input type = "submit" name = "submit" value = "search" class = "btn-primary">
+
+
+</form>
+
    
    <br/>  <br/>  <br/>
    <table class = "tbl-full">
